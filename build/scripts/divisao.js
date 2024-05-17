@@ -1,0 +1,1 @@
+function ಠ_ಠ481(ಠ_ಠ482,ಠ_ಠ483){return 0===ಠ_ಠ483?"Erro: divisão por zero":ಠ_ಠ482/ಠ_ಠ483}
